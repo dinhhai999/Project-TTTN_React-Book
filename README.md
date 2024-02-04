@@ -1,1 +1,1 @@
-[//]: # (Coza Store ...)
+[//]: # (React-Book)
